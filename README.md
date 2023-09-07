@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sarmuel001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Adebayo!
+- 👀 I’m interested in Frontend and Backend development
+- 🌱 I’m currently learning Backend development
+- 💞️ I’m looking to collaborate and work with developers across the globe
+- 📫 How to reach me: adebayosunday51@gmail.com
 
 <!---
 Sarmuel001/Sarmuel001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
